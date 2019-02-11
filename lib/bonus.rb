@@ -21,4 +21,4 @@ def bonus
   }
 
   #code your solution here:
-:heroine["status"] = "alive"
+heroine["status"] = "alive"
